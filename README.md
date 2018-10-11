@@ -19,7 +19,9 @@ This repository contains scripts to automate the steps to:
 
 ## For the impatient
 Take a look at [directory layout](/directory_layout.md)
+
 Take a look at [the scripts and usage](/usage.md)
+
 Take a look at [how to get help](/getting_help.md)
 
 ## Who needs this
