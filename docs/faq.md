@@ -13,6 +13,7 @@ The following types of questions / issues do **NOT** belong in this repository:
 - Questions on securing asterisk. If the question is very well-phrased, and perhaps includes suggestions you have as an expert in securing asterisk, it could be OK
 - Using this repository and / or installing and using asterisk on operating systems other than Linux - including Windows, MacOS. The scripts in this repository most certainly will **NOT** work on BSD systems, but well-phrased uestions on asterisk on BSD systems are welcome
 - Questions about connecting to Google Voice using an Obihai device - for this go to [Obitalk forums](https://www.obitalk.com/forum/) or Google is your friend.
+- Questions about how to use github - see [connecting to github with SSH](https://help.github.com/articles/connecting-to-github-with-ssh/) and [cloning with SSH URLs](https://help.github.com/articles/which-remote-url-should-i-use/#cloning-with-ssh-urls)
 
 Currently this is a one-person project. 
 Until and unless the community of participants in this repository grows very large, the following types of questions / issues do **NOT** belong in this repository:
@@ -58,3 +59,9 @@ The following information should **NEVER** be shared with your issue report:
     - Client private key - even if encrypted
 - Contents of ```/etc/manager.conf``` or any file it includes - without removing ```secret```
 - Contents of ```/etc/asterisk/acl.conf``` or any file it includes
+
+## 5. How do I create an issue on github?
+See [creating an issue](https://help.github.com/articles/creating-an-issue/)
+
+## 6. How do I create a pull request on github?
+See [create a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
