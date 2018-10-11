@@ -10,3 +10,36 @@ List of links from my bookmarks on topics related to PJSIP, Google Voice, asteri
 - [Debugging SIP message traffic with PJSIP History - Asterisk Blog](https://blogs.asterisk.org/2016/02/24/debugging-sip-message-traffic-with-pjsip-history/)
 - [Secure Calling Tutorial - Asterisk Project - Asterisk Project Wiki](https://wiki.asterisk.org/wiki/display/AST/Secure+Calling+Tutorial)
 
+## Google Voice - asterisk integration using PJSIP-OAuth2
+- [naf419's asterisk repo for gvsip](https://github.com/naf419/asterisk/tree/gvsip)
+- [naf419's wiki with known issues](https://github.com/naf419/asterisk/wiki)
+- [A New Beginning: Google Voice Joins the Asterisk PJSIP Club](http://nerdvittles.com/?p=26204)
+- [Asterisk Google Voice SIP testing and technical discussion om dslreports.com](https://www.dslreports.com/forum/r32016984-Asterisk-Google-Voice-SIP-testing-and-technical-discussion)
+- [Google Voice Gateway beta test for SIP interop on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop)
+- [Polycom Announces Agreement for Strategic Acquisition of Obihai Technology
+](http://www.polycom.com/company/news/press-releases/2018/20180104.html)
+- [Notice of Simon Telephonics Google Voice Gateway Discontinuation](https://simonics.com/2018/06/notice-of-simon-telephonics-google-voice-gateway-discontinuation/)
+
+## Asterisk secure calling
+- [Secure Calling Tutorial - Asterisk Project - Asterisk Project Wiki](https://wiki.asterisk.org/wiki/display/AST/Secure+Calling+Tutorial)
+- [How to use secure RSA authentication with the Asterisk IAX2 channel](https://www.voip-info.org/asterisk-iax-rsa-auth)
+- [IAX encryption](https://www.voip-info.org/iax-encryption)
+
+## SIP clients
+### Linux
+- [Linphone](https://www.linphone.org/technical-corner/linphone/overview)
+- [ekiga](https://www.ekiga.org/)
+- [Blink](http://icanblink.com/)
+### Android
+- [Linphone](https://www.linphone.org/technical-corner/linphone/overview)
+- [Zoiper for Android](https://play.google.com/store/apps/details?id=com.zoiper.android.app&hl=en_US)
+- [Blink for Android](https://play.google.com/store/apps/details?id=com.agprojects.BlinkMobile)
+
+## IAX clients
+### Linux
+- [Linphone](https://www.linphone.org/technical-corner/linphone/overview)
+- [Zoiper](https://www.zoiper.com/en/voip-softphone/download/current)
+### Android
+- [Linphone for Android](https://play.google.com/store/apps/details?id=org.linphone)
+- [Zoiper for Android](https://play.google.com/store/apps/details?id=com.zoiper.android.app&hl=en_US)
+
