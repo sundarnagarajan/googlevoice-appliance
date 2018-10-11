@@ -62,7 +62,7 @@ I looked around for guides to get asterisk working (again) with Google Voice wor
 
 I found this [excellent HOWTO](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1) for compiling and installing asterisk with patches from @naf419 and installing and configuring Google Voice trunks using FreePBX. I initially tried this in an AMD64 Ubuntu Bionic VirtualBox VM, and found it worked.
 
-I found [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) and managed to follow it to get Ubuntu 18.04 Bionic on my Raspberry Pi 3 Model B+. I then used the [HOWTO] above (https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1) to get asterisk compiled and working with Google Voice
+I found [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) and managed to follow it to get Ubuntu 18.04 Bionic on my Raspberry Pi 3 Model B+. I then used the [HOWTO](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1) above to get asterisk compiled and working with Google Voice
 
 I wanted to automate most of the steps, so that I could perform them multiple times. One thing led to the next, and the result is this repository, which I hope will be useful to people with similar needs to mine.
 
