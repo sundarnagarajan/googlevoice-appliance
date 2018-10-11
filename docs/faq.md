@@ -4,10 +4,10 @@ Please see [learning linux](/docs/learning_linux.md)
 ### 2. I am new to asterisk. I do not understand the instructions / advice
 Please see [learning asterisk](/docs/learning_asterisk.md)
 
-### I am new to git or I want to learn more about git
+### 3. I am new to git or I want to learn more about git
 Please see [learning git](/docs/learning_git.md)
 
-### 3. What type of questions / issues do NOT belong here (this repository)
+### 4. What type of questions / issues do NOT belong here (this repository)
 The following types of questions / issues do **NOT** belong in this repository:
 - General questions about Linux / Ubuntu / Debian
 - General questions (not specific to packaging asterisk) related to package management on Ubuntu
@@ -32,13 +32,13 @@ Until and unless the community of participants in this repository grows very lar
 - Questions about using a Dahdi card and / or Mobile (GSM) Dongle - I do not have much experience with this.
 - Using ACL with asterisk - I do not know much about this, but if there are other participants in this repository, you are welcome to ask
 
-## 4. How do I create an issue on github?
+## 5. How do I create an issue on github?
 See [creating an issue](https://help.github.com/articles/creating-an-issue/)
 
-## 5. How do I create a pull request on github?
+## 6. How do I create a pull request on github?
 See [create a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
 
-### 6. What information should I provide when opening an issue
+### 7. What information should I provide when opening an issue
 On top of, and independent of instructions below, **you, and you alone** are responsible for making sure you protect the security of your Linux and asterisk installation by making sure you do not leak out security-sensitive information as part of reporting your issue.
 
 **Read that previous line again**
@@ -70,5 +70,5 @@ The following information should **NEVER** be shared with your issue report:
 - Contents of ```/etc/manager.conf``` or any file it includes - without removing ```secret```
 - Contents of ```/etc/asterisk/acl.conf``` or any file it includes
 
-## 7. Can I submit a pull request containing external links to books, guides, HOWTOs, courses etc to help people learn about asterisk, Linux, github etc?
+## 8. Can I submit a pull request containing external links to books, guides, HOWTOs, courses etc to help people learn about asterisk, Linux, github etc?
 Such pull requests are welcome. For my policies on external links, see [external links](/docs/external_links.md)
