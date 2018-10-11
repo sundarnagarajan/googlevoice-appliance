@@ -28,7 +28,13 @@ Until and unless the community of participants in this repository grows very lar
 - Questions about using a Dahdi card and / or Mobile (GSM) Dongle - I do not have much experience with this.
 - Using ACL with asterisk - I do not know much about this, but if there are other participants in this repository, you are welcome to ask
 
-### 4. What information should I provide when opening an issue
+## 4. How do I create an issue on github?
+See [creating an issue](https://help.github.com/articles/creating-an-issue/)
+
+## 5. How do I create a pull request on github?
+See [create a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
+
+### 6. What information should I provide when opening an issue
 On top of, and independent of instructions below, **you, and you alone** are responsible for making sure you protect the security of your Linux and asterisk installation by making sure you do not leak out security-sensitive information as part of reporting your issue.
 
 **Read that previous line again**
@@ -59,9 +65,3 @@ The following information should **NEVER** be shared with your issue report:
     - Client private key - even if encrypted
 - Contents of ```/etc/manager.conf``` or any file it includes - without removing ```secret```
 - Contents of ```/etc/asterisk/acl.conf``` or any file it includes
-
-## 5. How do I create an issue on github?
-See [creating an issue](https://help.github.com/articles/creating-an-issue/)
-
-## 6. How do I create a pull request on github?
-See [create a pull request](https://services.github.com/on-demand/github-cli/open-pull-request-github)
