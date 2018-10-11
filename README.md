@@ -24,7 +24,7 @@ Though this is 'non-technical', please familiarize yourself with the following:
 - [HOWTO I used to test GV using FreePBX](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1)
 - Various articles on nerdvittles.com, including [this one](http://nerdvittles.com/?p=26204)
 - [Google Voice Gateway beta test for SIP interop thread on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop~start=300)
-- [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
+- [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) or [Wayback Machine](https://web.archive.org/web/20181011231733/https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
 - Everyone who helped with making asterisk compatible with the new asterisk-PJSIP-OAuth2 interface to Google Voice
 
 ## For the impatient
