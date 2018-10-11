@@ -27,7 +27,7 @@ You will probably find this repository useful if you meet one or more of the fol
 - You use or want to use [Google Voice](https://voice.google.com). This probably also means:
     - You make or receive a lot of calls to / from US and Canadian numbers
     - You (probably) live in the US
-- You use or want to use [asterisk](https://asterisk.org) - a leading open source PBX
+- You use or want to use [asterisk](https://www.asterisk.org) - a leading open source PBX
 - You (probably) already use asterisk and are fairly comfortable configuring asterisk using files from the command line`
 - You **prefer** to configure asterisk using configuration files under ```/etc/asterisk``` using the command line, **rather than using a web-GUI like FreePBX**
 - You are comfortable using Linux on the command line
