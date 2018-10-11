@@ -46,7 +46,7 @@ You will probably find this repository useful if you meet MOST of the criteria b
 ## Contributions
 See [contributions.md](/contributions.md)
 
-## Why did I create these scripts
+## Why did I create this repository
 My situation:
 - I have been using asterisk since 2011 (late entrant !)
 - I have a multi-site setup with multiple asterisk instances connecting on IAX2 over VPN
