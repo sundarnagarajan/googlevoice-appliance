@@ -11,7 +11,7 @@ This repository contains scripts to automate the steps to:
 
 ## Credits
 - [naf419](https://github.com/naf419) for his work on patching asterisk to work with Google Voice
-- [Bill Simon (Simon telephonics)](https://simonics.com/) for his GV-SIP gateway that many of used for years
+- [Bill Simon (Simon telephonics)](https://simonics.com/) for his GV-SIP gateway that many of us used for years
 - [HOWTO I used to test GV using FreePBX](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1)
 - Various articles on nerdvittles.com, including [this one](http://nerdvittles.com/?p=26204)
 - [Google Voice Gateway beta test for SIP interop thread on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop~start=300)
