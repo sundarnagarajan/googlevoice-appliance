@@ -18,11 +18,9 @@ This repository contains scripts to automate the steps to:
 - Everyone who helped with making asterisk compatible with the new OAuth-SIP interface to Google Voice
 
 ## For the impatient
-Take a look at [directory layout](/directory_layout.md)
-
-Take a look at [the scripts and usage](/usage.md)
-
-Take a look at [how to get help](/getting_help.md)
+- Take a look at [directory layout](/directory_layout.md)
+- Take a look at [the scripts and usage](/usage.md)
+- Take a look at [how to get help](/getting_help.md)
 
 ## Who needs this
 You will probably find this repository useful if you meet one or more of the following criteria:
