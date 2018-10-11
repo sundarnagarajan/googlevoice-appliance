@@ -4,6 +4,9 @@ Please see [learning linux](/docs/learning_linux.md)
 ### 2. I am new to asterisk. I do not understand the instructions / advice
 Please see [learning asterisk](/docs/learning_asterisk.md)
 
+### I am new to git or I want to learn more about git
+Please see [learning git](/docs/learning_git.md)
+
 ### 3. What type of questions / issues do NOT belong here (this repository)
 The following types of questions / issues do **NOT** belong in this repository:
 - General questions about Linux / Ubuntu / Debian
