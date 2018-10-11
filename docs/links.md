@@ -27,7 +27,7 @@ List of links from my bookmarks on topics related to PJSIP, Google Voice, asteri
 - [IAX encryption](https://www.voip-info.org/iax-encryption)
 
 ## Asterisk on Raspberry Pi
-- [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
+- [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) or [Wayback Machine](https://web.archive.org/web/20181011231733/https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
 
 ## Asterisk Google Voice Integration using PJSIP-OAuth2
 - [HOWTO guide for Google Voice with FreePBX 14, asterisk-gvsip on Ubuntu 18.04](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1)
