@@ -8,6 +8,8 @@ This repository contains scripts to automate the steps to:
 - Create a DEB file with Requires set to (subsequently) install without having to compile asterisk
 - Use a template file included in ```/etc/asterisk/pjsip.conf``` to enter your secret Google Voice OAuth details
 - Do all the above from the command line, without needing Apache2, PHP, FreePBX etc
+- At the end, if you have entered your Google Voice credentials correctly in a single file, asterisk should be running, registered to Google Voice, visible with ```pjsip show registration```
+- No SIP client credentials, inward call routing rules or outward calling rules or dial plans are created, but this repository contains some (basic) tips for doing this.
 
 ## License, code of conduct, goals and policies
 Though this is 'non-technical', please familiarize yourself with the following:
