@@ -1,0 +1,8 @@
+
+# From: https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/
+dtoverlay=vc4-kms-v3d
+# Not adding following because we are not using GPU
+# gpu_mem=128
+# DS1307 RTC
+dtoverlay=i2c-rtc,ds1307
+
