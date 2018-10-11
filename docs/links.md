@@ -1,4 +1,9 @@
-List of links from my bookmarks on topics related to PJSIP, Google Voice, asterisk
+Below are a list of links to resources on the Internet related to PJSIP, Google Voice, asterisk, SIP and IAX clients, ATs (Analog Telephone Adapters) etc.
+The links below are not ordered in any way, including my opinion of their quality.
+
+I am not associated with any of the sites linked below and I do not receive any commission or benefits from providing these links.
+
+Pull requests with additional links are welcome. For my policies on external links, see [external links](/docs/external_links.md)
 
 ## PJSIP
 - [PJSIP Configuration Sections and Relationships - Asterisk Project - Asterisk Project Wiki](https://wiki.asterisk.org/wiki/display/AST/PJSIP+Configuration+Sections+and+Relationships)
@@ -42,6 +47,8 @@ List of links from my bookmarks on topics related to PJSIP, Google Voice, asteri
 - [Linphone](https://www.linphone.org/technical-corner/linphone/overview)
 - [Zoiper for Android](https://play.google.com/store/apps/details?id=com.zoiper.android.app&hl=en_US)
 - [Blink for Android](https://play.google.com/store/apps/details?id=com.agprojects.BlinkMobile)
+### ATA (Analog Telephone Adapters)
+- [ATA on voip-info.org](https://www.voip-info.org/analog-telephone-adapters)
 
 ## IAX clients
 ### Linux
