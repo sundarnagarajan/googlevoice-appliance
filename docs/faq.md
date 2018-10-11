@@ -66,3 +66,6 @@ The following information should **NEVER** be shared with your issue report:
     - Client private key - even if encrypted
 - Contents of ```/etc/manager.conf``` or any file it includes - without removing ```secret```
 - Contents of ```/etc/asterisk/acl.conf``` or any file it includes
+
+## 7. Can I submit a pull request containing external links to books, guides, HOWTOs, courses etc to help people learn about asterisk, Linux, github etc?
+Such pull requests are welcome. For my policies on external links, see [external links](/docs/external_links.md)
