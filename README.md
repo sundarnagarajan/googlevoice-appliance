@@ -18,9 +18,9 @@ This repository contains scripts to automate the steps to:
 - Everyone who helped with making asterisk compatible with the new asterisk-PJSIP-OAuth2 interface to Google Voice
 
 ## For the impatient
-- Take a look at [directory layout](/directory_layout.md)
-- Take a look at [the scripts and usage](/usage.md)
-- Take a look at [how to get help](/getting_help.md)
+- Take a look at [directory layout](/docs/directory_layout.md)
+- Take a look at [the scripts and usage](/docs/usage.md)
+- Take a look at [how to get help](/docs/getting_help.md)
 
 ## Who needs this
 You will probably find this repository useful if you meet one or more of the following criteria:
@@ -36,7 +36,7 @@ You will probably find this repository useful if you meet one or more of the fol
 
 ## Assumptions
 - You are comfortable using Linux **on the command line**
-- Your knowledge of Linux is between moderate to expert - the documentation on this repository is not expected to be a guide for users new to Linux
+- Your knowledge of Linux is between moderate to expert - the documentation on this repository is not expected to be a guide for users new to Linux. For a few random web links to help in learning Linux, see [this page](/docs/learning_linux.md)
 
 ## Contributions
 See [contributions.md](/contributions.md)
