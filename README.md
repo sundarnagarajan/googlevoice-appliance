@@ -24,7 +24,7 @@ This repository contains scripts to automate the steps to:
 
 ## Who needs this
 You will probably find this repository useful if you meet one or more of the following criteria:
-- You use or want to use [Google Voice](https://voice.google.com]. This probably also means:
+- You use or want to use [Google Voice](https://voice.google.com). This probably also means:
     - You make or receive a lot of calls to / from US and Canadian numbers
     - You (probably) live in the US
 - You use or want to use [asterisk](https://asterisk.org) - a leading open source PBX
