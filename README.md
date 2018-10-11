@@ -9,6 +9,13 @@ This repository contains scripts to automate the steps to:
 - Use a template file included in ```/etc/asterisk/pjsip.conf``` to enter your secret Google Voice OAuth details
 - Do all the above from the command line, without needing Apache2, PHP, FreePBX etc
 
+## License, code of conduct, goals and policies
+Though this is 'non-technical', please familiarize yourself with the following:
+- The [LICENSE (GPLv3)](/LICENSE) used for everything on this repository, unless otherwise explicitly indicated
+- [Code of conduct](/CODE_OF_CONDUCT.md)
+- Please read the [FAQ](/docs/faq.md) before reporting an issue
+- If you are a beginner or are not experienced with operating at the Linux command line, please see: [learning linux](/docs/learning_linux.md)
+
 ## Credits
 - [naf419](https://github.com/naf419) for his work on patching asterisk to work with Google Voice
 - [Bill Simon (Simon telephonics)](https://simonics.com/) for his GV-SIP gateway that many of us used for years
