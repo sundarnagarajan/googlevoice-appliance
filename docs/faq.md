@@ -72,3 +72,9 @@ The following information should **NEVER** be shared with your issue report:
 
 ## 8. Can I submit a pull request containing external links to books, guides, HOWTOs, courses etc to help people learn about asterisk, Linux, github etc?
 Such pull requests are welcome. For my policies on external links, see [external links](/docs/external_links.md)
+
+## 9. Why doesn't your repository contain a pre-compiled DEB file?
+- github does not support or encourage uploading of large / binary artifacts
+- If you use a DEB file, you will not have a ready-made way to upgrade to future saterisk versions, unless I keep providing DEBs of future asterisk vesions. That makes you perpetually dependent on this repository and my DEBs
+- Using binary compiled DEB files from providers you do not know is a very risky activity
+- Once you have compiled asterisk from source once - using my scripts - the DEB file will be automatically created. You can download this DEB file and add it to your cloned repo, and it will be used if you use the scripts in your cloned repo again - e.g. for another asterisk instance. You can also maintain TWO SD cards - one with the asterisk source and one with asterisk installed from DEB. You can (if you porefer) run asterisk normally using the SD card with asterisk installed from DEB. When you want to download / install future asterisk versions (from naf419's repository), you can put in the other SD card, compile, build and test asterisk, and the new DEB would have been automatically created. No dependence on me or this repo ! My scripts also allow you to download your production asterisk configuration files which will be automatically installed into /etc/asterisk when you compile and install a new asterisk version or install asterisk from DEB. This is my setup - you may have other preferences.
