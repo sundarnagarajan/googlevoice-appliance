@@ -39,7 +39,7 @@ On top of, and independent of instructions below, **you, and you alone** are res
 
 **Read that previous line again**
 
-NEVER cut-and-paste or reveal your Google Voice OAuth2 credentials (client_id, client secret, access token, refresh token) to **anyone else** INCLUDING on this repository. 
+**NEVER** cut-and-paste or reveal your Google Voice OAuth2 credentials (client_id, client secret, access token, refresh token) to **anyone else** INCLUDING on this repository. 
 Revealing your Google Voice OAuth2 credentials can have **SERIOUS** consequences, including financial consequences if you have international dialing with an automatic payment method setup.
 Abuse of your Google Voice credentials **could** result in your Google Voice service being disrupted or limited or disabled by Google.
 
