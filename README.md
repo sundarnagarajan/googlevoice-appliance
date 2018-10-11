@@ -15,7 +15,7 @@ This repository contains scripts to automate the steps to:
 - [HOWTO I used to test GV using FreePBX](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1)
 - Various articles on nerdvittles.com, including [this one](http://nerdvittles.com/?p=26204)
 - [Google Voice Gateway beta test for SIP interop thread on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop~start=300)
-- Everyone who helped with making asterisk compatible with the new OAuth-SIP interface to Google Voice
+- Everyone who helped with making asterisk compatible with the new asterisk-PJSIP-OAuth2 interface to Google Voice
 
 ## For the impatient
 - Take a look at [directory layout](/directory_layout.md)
@@ -38,6 +38,8 @@ You will probably find this repository useful if you meet one or more of the fol
 - You are comfortable using Linux **on the command line**
 - Your knowledge of Linux is between moderate to expert - the documentation on this repository is not expected to be a guide for users new to Linux
 
+## Contributions
+See [contributions.md](/contributions.md)
 
 ## Why did I create these scripts
 
