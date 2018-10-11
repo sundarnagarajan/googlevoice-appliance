@@ -1,10 +1,13 @@
 This repository by itself is not aimed at helping new users learn Linux.
 
+Below are an assortment of links to resources that may be useful to learn more about Linux, Ubunutu and related topics.
 Below are some links to resources on the Internet to learn Linux.
 Search google for 'learning Linux' to find more resources. This is not an exhaustive list. 
 The links below are not ordered in any way, including my opinion of their quality.
 
 I am not associated with any of the sites linked below and I do not receive any commission or benefits from providing these links.
+
+Pull requests with additional links are welcome. For my policies on external links, see [external links](/docs/external_links.md)
 
 
 - [Introduction to Linux by edX](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
