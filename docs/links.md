@@ -26,6 +26,13 @@ List of links from my bookmarks on topics related to PJSIP, Google Voice, asteri
 - [How to use secure RSA authentication with the Asterisk IAX2 channel](https://www.voip-info.org/asterisk-iax-rsa-auth)
 - [IAX encryption](https://www.voip-info.org/iax-encryption)
 
+## Asterisk on Raspberry Pi
+[How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
+
+## Asterisk Google Voice Integration using PJSIP-OAuth2
+[HOWTO guide for Google Voice with FreePBX 14, asterisk-gvsip on Ubuntu 18.04]((https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1))
+[naf419's asterisk repository](https://github.com/naf419/asterisk)
+
 ## SIP clients
 ### Linux
 - [Linphone](https://www.linphone.org/technical-corner/linphone/overview)
