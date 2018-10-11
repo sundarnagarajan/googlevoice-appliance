@@ -1,6 +1,6 @@
 # Asterisk with PJSIP Google Voice support on Raspberry Pi 3 Model B/B+ on Ubuntu Bionic
 
-This repository contains scripts to automate the steps for:
+This repository contains scripts to automate the steps to:
 - Create a bootable SD card with Ubuntu Bionic that can be booted on a Raspberry Pi 3 Model B/B+
 - Update raspberrypi packages and kernel for Paspberry Pi 3 Model B/B+
 - Install pre-requisites for compiling asterisk
