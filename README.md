@@ -17,6 +17,11 @@ This repository contains scripts to automate the steps to:
 - [Google Voice Gateway beta test for SIP interop thread on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop~start=300)
 - Everyone who helped with making asterisk compatible with the new OAuth-SIP interface to Google Voice
 
+## For the impatient
+Take a look at [directory layout](/directory_layout.md)
+Take a look at [the scripts and usage](/usage.md)
+Take a look at [how to get help](/getting_help.md)
+
 ## Who needs this
 You will probably find this repository useful if you meet one or more of the following criteria:
 - You use or want to use [Google Voice](https://voice.google.com]. This probably also means:
@@ -27,6 +32,12 @@ You will probably find this repository useful if you meet one or more of the fol
 - You **prefer** to configure asterisk using configuration files under ```/etc/asterisk``` using the command line, **rather than using a web-GUI like FreePBX**
 - You are comfortable using Linux on the command line
 - You are interested in installing a GoogleVoice-compatible version of asterisk on a Raspberry Pi. These scripts are a **bit** specific to using a Raspberry Pi 3 **Model B/B+**, but most of the scripts will work for a Raspberry Pi 2 also
+- You already have asterisk configured with a lot of custom dialplans, calling rules and incoming call routing rules, and want to avoid porting these to FreePBX by provisioning a **second** asterisk server dedicated to routing incoming and outgoing Google Voice calls.
+
+## Assumptions
+- You are comfortable using Linux **on the command line**
+- Your knowledge of Linux is between moderate to expert - the documentation on this repository is not expected to be a guide for users new to Linux
+
 
 ## Why did I create these scripts
 
