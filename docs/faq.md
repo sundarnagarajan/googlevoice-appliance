@@ -1,7 +1,7 @@
-### I am new to Linux / Ubuntu / Debian. I do not understand the instructions
+### 1. I am new to Linux / Ubuntu / Debian. I do not understand the instructions
 Please see [learning linux](/docs/learning_linux.md)
 
-### 1. What type of questions / issues do NOT belong here (this repository)
+### 2. What type of questions / issues do NOT belong here (this repository)
 Currently this is a one-person project. 
 Until and unless the community of participants in this repository grows very large, the following types of questions / issues do NOT belong in this repository:
 - General questions about Linux / Ubuntu / Debian
@@ -12,7 +12,7 @@ Until and unless the community of participants in this repository grows very lar
 - Questions on FreeSwitch, PBX-In-A-Flash etc
 - Questions on securing asterisk. If the question is very well-phrased, and perhaps includes suggestions you have as an expert in securing asterisk, it could be OK
 
-### 2. What information should I provide when opening an issue
+### 3. What information should I provide when opening an issue
 On top of, and independent of instructions below, **you, and you alone** are responsible for making sure you protect the security of your Linux and asterisk installation by making sure you do not leak out security-sensitive information as part of reporting your issue.
 
 **Read that previous line again**
