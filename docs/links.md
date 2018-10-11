@@ -9,6 +9,7 @@ List of links from my bookmarks on topics related to PJSIP, Google Voice, asteri
 - [Configuring res_pjsip to work through NAT - Asterisk Project - Asterisk Project Wiki](https://wiki.asterisk.org/wiki/display/AST/Configuring+res_pjsip+to+work+through+NAT)
 - [Debugging SIP message traffic with PJSIP History - Asterisk Blog](https://blogs.asterisk.org/2016/02/24/debugging-sip-message-traffic-with-pjsip-history/)
 - [Secure Calling Tutorial - Asterisk Project - Asterisk Project Wiki](https://wiki.asterisk.org/wiki/display/AST/Secure+Calling+Tutorial)
+- [Sample annotated pjsip.conf from asterisk.org](https://github.com/asterisk/asterisk/blob/master/configs/samples/pjsip.conf.sample)
 
 ## Google Voice - asterisk integration using PJSIP-OAuth2
 - [naf419's asterisk repo for gvsip](https://github.com/naf419/asterisk/tree/gvsip)
