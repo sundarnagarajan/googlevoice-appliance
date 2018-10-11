@@ -18,7 +18,6 @@ Pull requests with additional links are welcome. For my policies on external lin
     - [Amazon US link](https://www.amazon.com/FreePBX-2-5-Powerful-Telephony-Solutions/dp/1847194729)
     - COvers FreePBX, but a lot of the information will probably be about Asterisk, since FreePBX is built on top of asterisk
 - [Practical Asterisk 1.4 and 1.6 available free online](http://the-asterisk-book.com/1.6/)
-- 
 
 ## Courses
 - Asterisk Made Easy: Learn to Install Asterisk and Linux - [course on udemy.com](https://www.udemy.com/how-to-install-asterisk-on-centos-linux-video/)
