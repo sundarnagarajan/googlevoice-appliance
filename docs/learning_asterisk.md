@@ -16,7 +16,7 @@ Pull requests with additional links are welcome. For my policies on external lin
     - In this book you will learn a lot about telephony VoIP and asterisk. The asterisk versions covered will necessarily be pretty old, but for the **most** part, all you learn will be applicable in current releases of asterisk.
 - FreePBX 2.5 Powerful Telephony Solutions by Alex Robar
     - [Amazon US link](https://www.amazon.com/FreePBX-2-5-Powerful-Telephony-Solutions/dp/1847194729)
-    - COvers FreePBX, but a lot of the information will probably be about Asterisk, since FreePBX is built on top of asterisk
+    - Covers FreePBX, but a lot of the information will probably be about Asterisk, since FreePBX is built on top of asterisk
 - [Practical Asterisk 1.4 and 1.6 available free online](http://the-asterisk-book.com/1.6/)
 
 ## Courses
