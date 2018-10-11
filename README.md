@@ -48,7 +48,7 @@ See [contributions.md](/contributions.md)
 
 ## Why did I create these scripts
 My situation:
-- I have been using asterisk since 2011 (late entrant!)
+- I have been using asterisk since 2011 (late entrant !)
 - I have a multi-site setup with multiple asterisk instances connecting on IAX2 over VPN
 - I have quite a bit of custom calling rules, dial plans, DID rules, custom macros and external web applications integrating through AMI/originate to initiate multi-way calls, dial into conference calls for work etc
 - I have done extensive work on organizing extensions.conf and other asterisk configuration files using #include and templates
