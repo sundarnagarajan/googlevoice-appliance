@@ -14,7 +14,7 @@ This repository contains scripts to automate the steps to:
 ## News
 Working on following:
 - Support for Raspbian Stretch minimal image
-- Integrate [traud/asterisk-opus](https://github.com/traud/asterisk-opus) to get Opus support - [Issue 6](/issues/6)
+- Integrate [traud/asterisk-opus](https://github.com/traud/asterisk-opus) to get Opus support - [Issue 6](https://github.com/sundarnagarajan/googlevoice-appliance/issues/6)
 - See Issues I have opened
 
 ## License, code of conduct, goals and policies
@@ -76,9 +76,9 @@ I found [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+
 I wanted to automate most of the steps, so that I could perform them multiple times. One thing led to the next, and the result is this repository, which I hope will be useful to people with similar needs to mine.
 
 ## Limitations
-- When using Ubuntu 18.04 Bionic, libspeex1 package (wrongly?) conflicts with asterisk package with version > 13. Solution in THAT case is to rename package name in DEB that we build to 'asterisk-gvsip'. See [Issue 2](/issues/2)
+- When using Ubuntu 18.04 Bionic, libspeex1 package (wrongly?) conflicts with asterisk package with version > 13. Solution in THAT case is to rename package name in DEB that we build to 'asterisk-gvsip'. See [Issue 2](https://github.com/sundarnagarajan/googlevoice-appliance/issues/2)
 - DEB file generated on Ubuntu 18.04 Bionic cannot be installed on Raspbian Stretch minimal and vice versa because I generate a DEB file with dependencies strictly bound to minimum required package versions - and these dependencies (probably) will not be met in the other operating system. Solution is to build from source on each operating system.
-- Current scripts do not include support for Opus - required / beneficial for Google Voice. Working on integrating Opus patches from [trad/asterisk-opus](https://github.com/traud/asterisk-opus). Have tries the patches, and Opus support works. See [Issue 6](issues/6)
+- Current scripts do not include support for Opus - required / beneficial for Google Voice. Working on integrating Opus patches from [trad/asterisk-opus](https://github.com/traud/asterisk-opus). Have tries the patches, and Opus support works. See [Issue 6](https://github.com/sundarnagarajan/googlevoice-appliance/issues/6)
 
 ## Getting started
 ### Installation
