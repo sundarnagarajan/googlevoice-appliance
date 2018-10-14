@@ -11,6 +11,12 @@ This repository contains scripts to automate the steps to:
 - At the end, if you have entered your Google Voice credentials correctly in a single file, asterisk should be running, registered to Google Voice, visible with ```pjsip show registration```
 - No SIP client credentials, inward call routing rules or outward calling rules or dial plans are created, but this repository contains some (basic) tips for doing this.
 
+## News
+Working on following:
+- Support for Raspbian Stretch minimal image
+- Integrate [traud/asterisk-opus](https://github.com/traud/asterisk-opus) to get Opus support
+- See Issues I have opened
+
 ## License, code of conduct, goals and policies
 Though this is 'non-technical', please familiarize yourself with the following:
 - The [LICENSE (GPLv3)](/LICENSE) used for everything on this repository, unless otherwise explicitly indicated
@@ -25,6 +31,7 @@ Though this is 'non-technical', please familiarize yourself with the following:
 - Various articles on nerdvittles.com, including [this one](http://nerdvittles.com/?p=26204)
 - [Google Voice Gateway beta test for SIP interop thread on dslreports.com](https://www.dslreports.com/forum/r31966059-Google-Voice-Gateway-beta-test-for-SIP-interop~start=300)
 - [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) or [Wayback Machine](https://web.archive.org/web/20181011231733/https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/)
+- [traud/asterisk-opus](https://github.com/traud/asterisk-opus) for Opus patches - useful for Google Voice
 - Everyone who helped with making asterisk compatible with the new asterisk-PJSIP-OAuth2 interface to Google Voice
 
 ## For the impatient
@@ -67,6 +74,11 @@ I found this [excellent HOWTO](https://community.freepbx.org/t/how-to-guide-for-
 I found [How-To: Ubuntu Server 18.04.01 (Bionic Beaver) on the Raspberry Pi 3 B+](https://www.invik.xyz/linux/Ubuntu-Server-18-04-1-RasPi3Bp/) and managed to follow it to get Ubuntu 18.04 Bionic on my Raspberry Pi 3 Model B+. I then used the [HOWTO](https://community.freepbx.org/t/how-to-guide-for-google-voice-with-freepbx-14-asterisk-gvsip-ubuntu-18-04/50933/1) above to get asterisk compiled and working with Google Voice
 
 I wanted to automate most of the steps, so that I could perform them multiple times. One thing led to the next, and the result is this repository, which I hope will be useful to people with similar needs to mine.
+
+## Limitations
+- When using Ubuntu 18.04 Bionic, libspeex1 package (wrongly?) conflicts with asterisk package with version > 13. Solution in THAT case is to rename package name in DEB that we build to 'asterisk-gvsip'
+- DEB file generated on Ubuntu 18.04 Bionic cannot be installed on Raspbian Stretch minimal and vice versa because I generate a DEB file with dependencies strictly bound to minimum required package versions - and these dependencies (probably) will not be met in the other operating system. Solution is to build from source on each operating system.
+- Current scripts do not include support for Opus - required / beneficial for Google Voice. Working on integrating Opus patches from [trad/asterisk-opus](https://github.com/traud/asterisk-opus). Have tries the patches, and Opus support works.
 
 ## Getting started
 ### Installation
