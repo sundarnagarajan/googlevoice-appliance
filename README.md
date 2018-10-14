@@ -14,7 +14,7 @@ This repository contains scripts to automate the steps to:
 ## News
 Working on following:
 - Support for Raspbian Stretch minimal image
-- Integrate [traud/asterisk-opus](https://github.com/traud/asterisk-opus) to get Opus support - [Issue 6](issues/6)
+- Integrate [traud/asterisk-opus](https://github.com/traud/asterisk-opus) to get Opus support - [Issue 6](/issues/6)
 - See Issues I have opened
 
 ## License, code of conduct, goals and policies
