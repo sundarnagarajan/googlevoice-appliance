@@ -1,0 +1,10 @@
+[Oct 14 20:18:49] Asterisk GIT-15-b300c563e8M built by root @ astgv3a on a armv7l running Linux on 2018-10-14 07:34:13 UTC
+[Oct 14 20:18:49] NOTICE[3553] loader.c: 283 modules will be loaded.
+[Oct 14 20:18:49] NOTICE[3553] cdr.c: CDR simple logging enabled.
+[Oct 14 20:18:49] NOTICE[3553] dnsmgr.c: Managed DNS entries will be refreshed every 300 seconds.
+[Oct 14 20:18:51] NOTICE[3553] chan_iax2.c: Still have a callno...
+[Oct 14 20:18:51] NOTICE[3553] chan_iax2.c: Still have a callno...
+[Oct 14 20:18:51] NOTICE[3553] res_parking.c: Adding default profile to res_parking
+[Oct 14 20:18:51] NOTICE[3553] confbridge/conf_config_parser.c: Adding default_bridge profile to app_confbridge
+[Oct 14 20:18:51] NOTICE[3553] confbridge/conf_config_parser.c: Adding default_user profile to app_confbridge
+[Oct 14 20:18:51] NOTICE[3553] confbridge/conf_config_parser.c: Adding default_menu menu to app_confbridge
