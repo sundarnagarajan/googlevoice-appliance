@@ -6,6 +6,8 @@ Pull requests with additional links are welcome. For my policies on external lin
 - [Asterisk wiki](https://wiki.asterisk.org/wiki/display/AST/Getting+Started)
 - [Tutorials and HOWTos on asterisk at asteriskguru.com](https://www.asteriskguru.com/)
 - [Asterisk at voip-info.org](https://www.voip-info.org/asterisk/)
+- [Asterisk Admin Guide from wiki.asterisk.org (PDF) - covers asterisk 14](https://wiki.asterisk.org/wiki/download/attachments/19005471/Asterisk-Admin-Guide-14.pdf?version=1&modificationDate=1469484505517&api=v2)
+- [Asterisk 14 Reference PDF from wiki.asterisk.org](https://wiki.asterisk.org/wiki/download/attachments/19005471/Asterisk-14-Reference.pdf?version=1&modificationDate=1469484452367&api=v2)
 
 ## Books
 - Asterisk - the Future of Telephony (AFOT) - published by O'Reilly
